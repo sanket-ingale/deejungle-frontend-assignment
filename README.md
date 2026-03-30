@@ -3,6 +3,8 @@
 
 This is a React Native app built with Expo. It demonstrates how to get data from the internet, save it, and add visual animations.
 
+![alt text](image.png)
+
 ## What it does
 
 * **Fetches Data:** The app has a single screen with a "Fetch Data" button. When it is pressed, app downloads a list of items from a JSONPlaceholder.
@@ -33,8 +35,8 @@ npm install
 npx expo start
 ```
 
-### 3. Open the app:
+### 3. Open the app
 Once the server starts, the terminal will provide options to view the app on:
-* An Android emulator
-* An iOS simulator
-* Physical phone using the Expo Go app
+* An Android emulator. (Press a)
+* An iOS simulator. (Press i)
+* Physical phone using the Expo Go app. (Scan the QR code)
